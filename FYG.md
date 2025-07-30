@@ -149,14 +149,14 @@ There are many different fields in CS and a lot of courses that range from theor
 
 CS Majors and Specialists can optionally enroll in one or more Focuses within computer science, as listed on the [academic calendar] (https://artsci.calendar.utoronto.ca/section/Computer-Science). Focuses help students explore different areas of computer science in a guided way and allow students to formally show expertise in a particular field of CS. You may choose to enroll in a focus at any time or as many as you would like.
 
-For most Focuses, all CS Specialists and Majors can enroll automatically at any point in their degree. However, to enroll in the [Focus in Technology Leadership (FTLI)](https://www.technologyleadershipinitiative.com/), students must complete a special application form and successfully pass any interviews. FTLI aims to prepare students to take on leadership roles within the tech industry. Currently, FTLI accepts about 30 students for each cohort, though they may possibly expand in future years.
+For most Focuses, all CS Specialists and Majors can enroll automatically at any point in their degree. However, to enroll in the [Focus in Technology Leadership (FTL)](https://www.technologyleadershipinitiative.com/), students must complete a special application form and successfully pass any interviews. FTL aims to prepare students to take on leadership roles within the tech industry. Currently, FTL accepts about 30 students for each cohort, though they may possibly expand in future years.
 
-Once you're in, FTLI has two big draws: 
+Once you're in, FTL has two big draws: 
 1. Industry-integrated learning
- Enrolled students must complete two specialized courses exclusively for FTLI students: the industry-focused variant of CSC207H1: Software Design and CSC308H1: Technology Leadership. FTLI's version of CSC207 involves an industry-integrated project that past cohorts have found extremely valuable in developing technical and soft skills.
+ Enrolled students must complete two specialized courses exclusively for FTL students: the industry-focused variant of CSC207H1: Software Design and CSC308H1: Technology Leadership. FTL's version of CSC207 involves an industry-integrated project that past cohorts have found extremely valuable in developing technical and soft skills.
 
 2. Industry experience and workshops
-	FTLI frequently hosts networking events and workshops to help students build skills essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
+	FTL frequently hosts networking events and workshops to help students build skills essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
 
 ##### Breadth Courses
 
@@ -367,7 +367,7 @@ They also ask what's the supplementary given information from what happened the 
 
 For more info visit the [CS Department Admissions Page](http://web.cs.toronto.edu/program/ugrad/admission.htm)
 
-####What if I want to pursue Data Science?
+#### What if I want to pursue Data Science?
 
 Data Science is a recently added specialty that is co-offered by the Department of Statistics and Computer Science. As quoted from the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science#programs_view-block_2-0) The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program.
 
@@ -452,9 +452,6 @@ Do note that once you are in the ASIP stream, you will be subject to extra fees 
 ## Important Links
 
 Click on any of the links to go there:
-
-{ /* \\[CS Community Team]() (Use your UofT Email to make an account on the page) Coming Soon */}
-
 - [Department Discourse Page](https://bb.teach.cs.toronto.edu/)
 - [Room 2250 Podcast](https://open.spotify.com/show/3dNTFMwEqbXO7fosklIP0m)
 - [ArtSci Site](http://www.artsci.utoronto.ca/current)
