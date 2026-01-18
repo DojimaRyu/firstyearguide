@@ -9,7 +9,7 @@ summaryImage: "first_year.jpg"
 2025 Edition Version 1.6 - Last Edit July 30, 2025
 
 <p>
-  <img src="chud.png" alt="Reaper" width="100" /> <br>
+  <img src="chud.webp" alt="Reaper" width="100" /> <br>
   Edison Y. <br>
   Class of 2027, Computer Science Specialist<br>
   VP of Internal Relations<br>
@@ -263,10 +263,7 @@ Also, look at the department’s [page](https://web.cs.toronto.edu/undergraduate
 
 ---
 ### Which Math Course Should I Take?
-<p align="center" >
-    <img src="Screw_you_Livshits_Adi.png" alt="Asiiiiiiff..." width = "400" /> <br> 
-  MAT237 my beloved... 😍
-</p>
+
 Before we go any further, there are a few good official resources for this section; check [this guide to First-Year Math courses](https://www.mathematics.utoronto.ca/undergraduate/current-students/guide-first-year-mathematics) and also [the MAT137Y1 vs MAT157Y1 portion of the Incoming First-Year CS webpage](https://web.cs.toronto.edu/undergraduate/incoming).
 
 So yes, you’re thinking – this is a CS guide! Why is it talking about math courses? Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is why you'll pick a calculus course in your first year, and your options are highly varied.
@@ -342,7 +339,7 @@ We have a page full of student clubs, unions, and groups that we've partnered wi
 Here's a quick look at the club roster on our website;
 
 <p align="center">
-    <img src="clubs.png" alt="CSSU Club Roster" width = "800" />
+    <img src="clubs.webp" alt="CSSU Club Roster" width = "800" />
 </p>
 
 Interested in [machine intelligence](https://utmist.gitlab.io/) or [computer graphics](https://www.instagram.com/utcomputergraphics/)? Maybe [capture the flag](https://uoftctf.org/)? Perhaps [cybersecurity](https://cssa.sa.utoronto.ca/)? You name, we have it - you can even check for a more comprehensive lists of student clubs at the [Student Organization Portal](https://sop.utoronto.ca/groups/https://sop.utoronto.ca/groups/)!
